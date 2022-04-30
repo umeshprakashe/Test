@@ -7,11 +7,11 @@ public class TestMain {
 
 	public static void main(String[] args) {
 
-		List list = Arrays.asList("A","S","D","F","G");
+		List list = Arrays.asList("A","S","D","F");
 
-		list.forEach(s->{
+		list.forEach(s->{    
 			System.out.println(s);
-		});
+		});        
 	}
 
 }
