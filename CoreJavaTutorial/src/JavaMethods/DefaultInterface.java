@@ -8,7 +8,7 @@ public interface DefaultInterface {
 		System.out.println("Inside Interface Default");
 	}
 
-	default void print1() {
+	default void print1() {   
 		System.out.println("Inside Interface Default2");
 	}
 	
