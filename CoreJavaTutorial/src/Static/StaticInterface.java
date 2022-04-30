@@ -5,3 +5,4 @@ public interface StaticInterface {
 		System.out.println("Inside Static View Method");
 	}
 }
+     
